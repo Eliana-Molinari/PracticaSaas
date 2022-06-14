@@ -1,0 +1,112 @@
+body{
+   
+    background-color: rgba(190, 189, 187, 0.037);
+    
+    align-content: center;
+
+
+}
+
+header{
+    
+    background-color: white;
+    padding: 0.2rem;
+    
+    .logo{
+        margin-left: 10rem;
+    }
+    .search{
+    margin-left: 5rem;
+    margin-bottom: 0.3rem;
+
+    }
+    .personal{
+        margin-left: 7rem;
+        
+      
+    }
+ 
+}
+main{
+    padding: 0 15rem 0 15rem;
+    .grid-fotos{
+        opacity:70% ;
+
+    }
+    .grid-fotos:hover{
+        opacity:100% ;
+
+    }
+}
+nav{
+    .rounded-circle {
+        opacity: 80%;
+    }
+    .rounded-circle:hover {
+        opacity: 100%;
+    }
+justify-content: center;
+
+.avatar{
+    margin-left:4rem ;
+}
+    .titulo{
+        font-size: 2rem;
+        font-weight: 200;
+        padding: -0.5em;
+        
+    }
+
+    .titulobtn{
+        padding:0.5em;
+
+    }
+
+
+  .statusFollowers{
+    padding: 0.8em;
+ 
+  }
+  .statusPost{
+    padding: 0.8em;
+    
+
+  }
+
+  .statusFollow{
+    padding: 0.8em;
+    
+  }
+  .nameUser{
+
+
+}
+  .typeUser{
+   
+    color: gray;
+   
+    font-size: 300;
+    padding-bottom: 2rem;
+  }
+   
+.destacadas{
+    padding-bottom: 2rem;
+   
+      .nombreDestacada{
+        padding: 1.5em;
+        margin: auto;
+        
+      }
+    
+
+ 
+}
+
+
+
+}
+footer{
+    font-size: 0.6rem;
+    margin-left:17rem;
+    padding: 1rem;
+}
