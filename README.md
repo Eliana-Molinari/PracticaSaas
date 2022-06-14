@@ -10,8 +10,8 @@
 - 🤔 Looking for challenges, practice and on-site/remote jobs⚡
 
 ```diff
-@@ Currently working with: Sass @@
-```
+@@ Currently working with: Sass @@ ```
+
 
   
 <img src="https://github.com/Eliana-Molinari/Eliana-Molinari/blob/main/pngegg.png" width="200" > 
