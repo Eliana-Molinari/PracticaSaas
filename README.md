@@ -9,7 +9,7 @@
  
 
 
-- 🤔 Looking for challenges, practice and on-site/remote jobs⚡
+
 
 ```diff
 @@ Currently working with: Sass @@ 
